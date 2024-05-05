@@ -19,10 +19,10 @@ body {
 footer {
     font-size: 12px !important;
     width: 100%;
-    color: rgb(152, 148, 148);
+    color: rgb(202, 197, 197);
     position: fixed;
     bottom: 0;
-    background-color: rgb(240, 240, 240);
+    background-color: rgb(158, 150, 150);
 }
 
 footer p {
