@@ -1,0 +1,20 @@
+
+
+
+/* css */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(90deg, #56CCF2 7%, #2F80ED 99%);
+}
+
+
+.container {
+    gap: 10px;
+    color: rgb(252, 255, 240);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    align-self: auto;
+
+}
